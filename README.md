@@ -33,7 +33,7 @@ This application leverages Streamlit for its web interface, providing a seamless
 2. Ensure Docker is installed and running on your system.
 3. Build and run the Docker container using `docker-compose up --build`.
 4. Access the Streamlit application by navigating to `http://localhost:8501` in your web browser.
-5. ![streamlit-app-image](Screenshot_2024-03-21_114245.png)
+5. ![streamlit-app-image](streamlit.png)
 
 
 
